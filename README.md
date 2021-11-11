@@ -5,6 +5,24 @@
 - 📮 How to reach me: Wantedly [https://www.wantedly.com/id/semlele]
 - 🕺 Pronouns: he/him
 
+<p align="left"> 
+  <a href="https://github.com/semlele/semlele/">
+    <img src="https://komarev.com/ghpvc/?username=semlele" alt="semlele" />
+  </a>
+  <a href="http://twitter.com/suzu_bofetada">
+    <img height="20" src="https://img.shields.io/twitter/follow/suzu_bofetada?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/semlele">
+    <img height="20" src="https://img.shields.io/github/followers/semlele?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/SK_osushi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/SK_osushi/posts.svg" />
+  </a>
+  <//qiita.com/SK_osushi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/SK_osushi/contributions.svg" />
+  </a>
+</p>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=semlele&count_private=true&show_icons=true&theme=panda" />
 </a>
@@ -12,9 +30,3 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semlele&theme=panda" />
 </a>
 
-<p align="center">
-  <a href="https://dev.to/<yours>"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />       </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/<yours>"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/<yours>/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:<yours>?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<p>
