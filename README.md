@@ -11,3 +11,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semlele&theme=panda" />
 </a>
+
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=semlele&hide=contribs&count_private=true&show_icons=true&theme=panda)](https://github.com/semlele/)
+
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semlele&layout=compact&theme=panda)](https://github.com/semlele/)
