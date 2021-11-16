@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Kenta Suzuki
 
 - ✏️ I’m in the 1st year of a Master's degree in computer science.
-- 🌱 I’m mainly learning Python.
+- 🌱 I’m mainly learning Python, Machine Learning, Data Analysis.
 - 📮 How to reach me: Wantedly [https://www.wantedly.com/id/semlele]
 - 🕺 Pronouns: he/him
 
