@@ -4,7 +4,6 @@
 - 🏢 I'm doing an internship as a data analyst at DYNAMIC PLUS CO., LTD.
 - 🌱 I’m mainly learning Python, Machine Learning, Data Analysis.
 - 📮 How to reach me: Wantedly [https://www.wantedly.com/id/semlele]
-- 🕺 Pronouns: he/him
 
 <p align="left"> 
   <a href="https://github.com/semlele/semlele/">
