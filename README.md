@@ -6,7 +6,9 @@
 - 📮 How to reach me: Wantedly [https://www.wantedly.com/id/semlele]
 
 <p align="left"> 
-
+  <a href="https://github.com/semlele/semlele/">
+    <img src="https://komarev.com/ghpvc/?username=semlele" alt="semlele" />
+  </a>
   <a href="http://twitter.com/suzu_bofetada">
     <img height="20" src="https://img.shields.io/twitter/follow/suzu_bofetada?label=Twitter&logo=twitter&style=flat" />
   </a>
