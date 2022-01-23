@@ -12,11 +12,11 @@
   <a href="https://github.com/semlele">
     <img height="20" src="https://img.shields.io/github/followers/semlele?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/SK_osushi">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/SK_osushi/posts.svg" />
+  <a href="http://qiita.com/semlele">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/semlele/posts.svg" />
   </a>
-  <//qiita.com/SK_osushi">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/SK_osushi/contributions.svg" />
+  <//qiita.com/semlele">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/semlele/contributions.svg" />
   </a>
 </p>
 
