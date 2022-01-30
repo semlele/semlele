@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Kenta Suzuki
 
-- ✏️ I’m in the 1st year of a Master's degree ... in computer science.
-- 🏢 I'm doing an internship ... as a data analyst at DYNAMIC PLUS CO., LTD.
+- ✏️ I’m in the 1st year of a Master's degree in computer science.
+- 🏢 I'm doing an internship as a data analyst at DYNAMIC PLUS CO., LTD.
 - 📊 I’m mainly learning ... Python, Machine Learning, Data Analysis.
 - 🍎 My computer is ... MacBook Pro (15-inch, 2019)
 - 🐢 For more detailed information: Wantedly [https://www.wantedly.com/id/semlele]
