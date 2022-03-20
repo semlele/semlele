@@ -8,6 +8,9 @@
 - 🐢 For more detailed information: Wantedly [https://www.wantedly.com/id/semlele]
 
 <p align="left"> 
+  <a href="http://twitter.com/suzu_bofetada">
+    <img height="20" src="https://img.shields.io/twitter/follow/suzu_bofetada?label=Twitter&logo=twitter&style=flat" />
+  </a>
   <a href="https://github.com/semlele">
     <img height="20" src="https://img.shields.io/github/followers/semlele?label=follow&logo=github&style=flat" />
   </a>
