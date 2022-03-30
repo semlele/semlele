@@ -3,7 +3,7 @@
 - ✏️ I’m in the 1st year of a Master's degree in Computer Science.
 - 🏢 Internship Experience ... DYNAMIC PLUS CO., LTD - Data Analyst (3 months).
 - 📊 I’m mainly learning ... Python, Machine Learning, Data Analysis.
-- 👨‍💻 I wanna be a Data Scientist(Data Analyst) or a Machine Learning Engineer.
+- 👨‍💻 I wanna be a Data Scientist (Data Analyst) or a Machine Learning Engineer.
 - 🍎 My computer is ... MacBook Pro (15-inch, 2019).
 - 🐢 For more detailed information: Wantedly [https://www.wantedly.com/id/semlele]
 
