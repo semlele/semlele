@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Kenta Suzuki
 
 - ✏️ I’m in the 1st year of a Master's degree in Computer Science.
-- 🏢 Internship Experience ... DYNAMIC PLUS CO., LTD - Data Analyst (3 months) <!-- / Japan Data Science Consortium Co. Ltd. - Data Scientist (2 weeks) / Sockets Inc. - Machine Learning Engineer (1 week) / Cross Cat Co., Ltd. - Data Scientist (3 days) -->
+- 🏢 Internship Experience ... DYNAMIC PLUS CO., LTD - Data Analyst (3 months) <!-- / Japan Data Science Consortium Co. Ltd. - Data Scientist (2 weeks) -->/ Sockets Inc. - Machine Learning Engineer (1 week) / Cross Cat Co., Ltd. - Data Scientist (3 days) 
 - 📊 I’m mainly learning ... Python, Machine Learning, Data Analysis.
 - 👨‍💻 I wanna be a Data Scientist (Data Analyst) or a Machine Learning Engineer.
 - 🍎 My computer is ... MacBook Pro (15-inch, 2019).
